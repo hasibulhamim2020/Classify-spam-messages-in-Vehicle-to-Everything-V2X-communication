@@ -1,0 +1,939 @@
+Message ID,Source Vehicle,Destination Vehicle,Message Type,Message Content,Priority,Spam
+1,Car A,Car B,Emergency,"Accident ahead, use caution",High,No
+2,Car C,Car D,Roadwork,Right lane closed ahead,Medium,No
+3,Car E,All Vehicles,Weather,Heavy rain expected,Low,No
+4,Car F,Car G,Traffic,Slow traffic ahead,Medium,No
+5,Car H,All Vehicles,Emergency,Vehicle stalled in left lane,High,No
+6,Car I,Car J,Hazard,Debris on road,Medium,No
+7,Car K,Car L,Roadwork,Construction zone ahead,Low,No
+8,Car M,All Vehicles,Traffic,Accident causing delays,High,No
+9,Car N,Car O,Hazard,Pothole in right lane,Medium,No
+10,Car P,All Vehicles,Weather,Snowstorm approaching,Low,No
+11,Car Q,All Vehicles,Emergency,Test emergency message,High,No
+12,Car R,Car S,Traffic,Visit this website for discounts,Medium,Yes
+13,Car T,Car U,Spam,You have won a prize! Click here to claim,Low,Yes
+14,Car V,All Vehicles,Weather,Sunny and clear,Low,No
+15,Car W,Car X,Hazard,Fallen tree in road,High,No
+16,Car Y,Car Z,Roadwork,Lane closure due to construction,Medium,No
+17,Car A,All Vehicles,Traffic,Heavy traffic on I-5,High,No
+18,Car B,Car C,Emergency,"Fire on shoulder, use caution",High,No
+19,Car D,All Vehicles,Weather,Wind advisory in effect,Medium,No
+20,Car E,Car F,Hazard,Animal on road,Medium,No
+21,Car G,All Vehicles,Spam,Buy our product now!,Low,Yes
+22,Car H,Car I,Roadwork,Bridge repair work ahead,Low,No
+23,Car J,All Vehicles,Traffic,Carpool lane open,Low,No
+24,Car K,Car L,Emergency,Medical emergency ahead,High,No
+25,Car M,All Vehicles,Weather,Hail warning in effect,High,No
+26,Car N,Car O,Hazard,Oil spill on road,High,No
+27,Car P,All Vehicles,Spam,Make $1000 a day from home,Low,Yes
+28,Car Q,Car R,Hazard,Ice on bridge,High,No
+29,Car S,All Vehicles,Traffic,"Construction ahead, use caution",Medium,No
+30,Car T,Car U,Emergency,"Car accident, call 911",High,No
+31,Car V,All Vehicles,Weather,Tornado warning in effect,High,No
+32,Car W,Car X,Hazard,Road flooded,High,No
+33,Car Y,Car Z,Roadwork,Lane closure due to repair,Medium,No
+34,Car A,All Vehicles,Spam,Free money for all!,Low,Yes
+35,Car B,Car C,Emergency,Medical emergency on highway,High,No
+36,Car D,All Vehicles,Weather,Thunderstorm approaching,High,No
+37,Car E,Car F,Hazard,Large pothole in right lane,Medium,No
+38,Car G,All Vehicles,Traffic,Delays due to roadwork,Medium,No
+39,Car H,Car I,Emergency,Carjacking on highway,High,No
+40,Car J,All Vehicles,Weather,Hurricane warning in effect,High,No
+41,Car K,Car L,Roadwork,Bridge out of service,High,No
+42,Car M,All Vehicles,Spam,Get rich quick!,Low,Yes
+43,Car N,Car O,Hazard,Large animal on road,Medium,No
+44,Car P,All Vehicles,Traffic,"Heavy traffic, use alternate route",High,No
+45,Car Q,Car R,Emergency,"Fire on highway, use caution",High,No
+46,Car S,All Vehicles,Weather,Snow warning in effect,High,No
+47,Car T,Car U,Hazard,Car on shoulder,Low,No
+48,Car V,All Vehicles,Roadwork,Right lane closed for repair,Medium,No
+49,Car W,Car X,Spam,You've been selected for a prize,Low,Yes
+50,Car Y,All Vehicles,Traffic,Police checkpoint ahead,High,No
+51,Car A,Car B,Hazard,Fallen power lines,High,No
+52,Car C,Car D,Roadwork,Left lane closed ahead,Medium,No
+53,Car E,All Vehicles,Weather,Fog advisory in effect,Medium,No
+54,Car F,Car G,Traffic,"Congestion, expect delays",Medium,No
+55,Car H,All Vehicles,Emergency,Car stalled in middle lane,High,No
+56,Car I,Car J,Hazard,Car spun out on shoulder,Low,No
+57,Car K,Car L,Roadwork,Utility work ahead,Low,No
+58,Car M,All Vehicles,Traffic,Heavy truck traffic,Medium,No
+59,Car N,Car O,Hazard,Tire debris on road,Medium,No
+60,Car P,All Vehicles,Weather,Heat advisory in effect,Medium,No
+61,Car Q,All Vehicles,Emergency,Test emergency broadcast,High,No
+62,Car R,Car S,Traffic,Reduced speed zone ahead,Low,No
+63,Car T,Car U,Spam,Click here for free product,Low,Yes
+64,Car V,All Vehicles,Weather,Severe thunderstorm warning,High,No
+65,Car W,Car X,Hazard,Large rock in road,Medium,No
+66,Car Y,Car Z,Roadwork,Shoulder closed for repair,Low,No
+67,Car A,All Vehicles,Traffic,"Traffic clearing, resume speed",Low,No
+68,Car B,Car C,Emergency,Medical emergency on shoulder,High,No
+69,Car D,All Vehicles,Weather,Snow accumulation expected,High,No
+70,Car E,Car F,Hazard,Car on fire on shoulder,High,No
+71,Car G,All Vehicles,Spam,Get rich quick scheme,Low,Yes
+72,Car H,Car I,Roadwork,Right lane closed for paving,Medium,No
+73,Car J,All Vehicles,Traffic,Left lane closed for construction,Medium,No
+74,Car K,Car L,Emergency,Police activity on highway,High,No
+75,Car M,All Vehicles,Weather,Blowing snow advisory,High,No
+150,Car Y,Car Z,Hazard,Car stalled in center lane,High,No
+151,Car A,All Vehicles,Traffic,Roadwork causing delays,Medium,No
+152,Car B,Car C,Emergency,"Car accident with injuries, call 911",High,No
+153,Car D,All Vehicles,Weather,Severe thunderstorm warning,High,No
+154,Car E,Car F,Hazard,Large debris on road,High,No
+155,Car G,All Vehicles,Roadwork,Shoulder closed for maintenance,Medium,No
+156,Car H,Car I,Traffic,Delays due to police activity,High,No
+157,Car J,All Vehicles,Emergency,Report suspicious vehicle on highway,High,No
+158,Car K,Car L,Weather,Tornado warning in effect,High,No
+159,Car M,All Vehicles,Spam,Get rich quick scheme,Low,Yes
+160,Car N,Car O,Roadwork,Right lane closed for construction,Medium,No
+161,Car P,All Vehicles,Traffic,"Congestion, expect delays",High,No
+162,Car Q,Car R,Emergency,Test emergency message,High,No
+163,Car S,All Vehicles,Weather,Severe thunderstorm approaching,High,No
+164,Car T,Car U,Hazard,Large pothole in right lane,Medium,No
+165,Car V,All Vehicles,Spam,You have won a prize!,Low,Yes
+166,Car W,Car X,Roadwork,Exit ramp closed for repair,Medium,No
+167,Car Y,All Vehicles,Traffic,"Heavy truck traffic, use caution",Medium,No
+168,Car A,Car B,Emergency,Test emergency message,High,No
+169,Car C,All Vehicles,Weather,Freezing rain expected,Medium,No
+170,Car D,Car E,Hazard,"Car on shoulder, use caution",Low,No
+171,Car F,All Vehicles,Roadwork,"Bridge construction, use caution",Medium,No
+172,Car G,Car H,Traffic,"Congestion, use alternate route",High,No
+173,Car I,All Vehicles,Emergency,Report suspicious package on shoulder,High,No
+174,Car J,Car K,Weather,Snow and ice expected,High,No
+175,Car L,All Vehicles,Spam,Get rich quick scheme,Low,Yes
+176,Car M,Car N,Roadwork,Center lane closed for paving,Medium,No
+177,Car O,All Vehicles,Traffic,"Heavy traffic, consider alternate route",High,No
+178,Car P,Car Q,Emergency,Medical emergency on shoulder,High,No
+179,Car R,All Vehicles,Weather,Heat advisory in effect,Medium,No
+180,Car S,Car T,Hazard,"Car on shoulder, use caution",Low,No
+181,Car U,All Vehicles,Traffic,Road closed due to accident,High,No
+182,Car V,Car W,Emergency,Test emergency message,High,No
+183,Car X,All Vehicles,Weather,Tornado warning upgraded to category 5,High,No
+184,Car Y,Car Z,Hazard,Car stopped in right lane,High,No
+185,Car A,All Vehicles,Spam,Click here for a free trial,Low,Yes
+186,Car B,Car C,Roadwork,Right lane closed for repair,Medium,No
+187,Car D,All Vehicles,Traffic,Heavy truck traffic causing delays,Medium,No
+188,Car E,Car F,Emergency,"Car accident, use caution",High,No
+189,Car G,All Vehicles,Weather,Hurricane warning in effect,High,No
+190,Car H,Car I,Hazard,Large object in the road,High,No
+191,Car J,All Vehicles,Roadwork,Center lane closed for construction,Medium,No
+192,Car K,Car L,Traffic,Delays due to accident,High,No
+193,Car M,All Vehicles,Emergency,Report suspicious activity on highway,High,No
+194,Car N,Car O,Weather,Severe thunderstorm warning upgraded to category 5,High,No
+195,Car P,All Vehicles,Spam,You have won a free vacation!,Low,Yes
+196,Car Q,Car R,Roadwork,Left lane closed for paving,Medium,No
+197,Car S,All Vehicles,Traffic,Heavy congestion causing delays,High,No
+198,Car T,Car U,Emergency,"Car accident, use caution",High,No
+199,Car V,All Vehicles,Weather,Snowstorm warning in effect,High,No
+200,Car W,Car X,Hazard,Car stalled in left lane,High,No
+201,Car Y,All Vehicles,Traffic,Road closed due to construction,High,No
+202,Car Z,Car A,Emergency,Test emergency message,High,No
+203,Car B,All Vehicles,Weather,Severe thunderstorm approaching,High,No
+204,Car C,Car D,Hazard,Car stalled in center lane,High,No
+205,Car E,All Vehicles,Spam,You have been selected for a survey,Low,Yes
+206,Car F,Car G,Roadwork,Exit ramp closed for construction,Medium,No
+207,Car H,All Vehicles,Traffic,Heavy truck traffic causing delays,Medium,No
+208,Car I,Car J,Emergency,Test emergency message,High,No
+209,Car K,All Vehicles,Weather,Hurricane warning upgraded to category 5,High,No
+210,Car L,Car M,Hazard,Car stopped in right lane,High,No
+211,Car N,All Vehicles,Roadwork,Shoulder closed for construction,Medium,No
+212,Car O,Car P,Traffic,Delays due to roadwork,Medium,No
+213,Car Q,All Vehicles,Emergency,Report suspicious activity on highway,High,No
+214,Car R,Car S,Weather,Blizzard warning upgraded to category 5,High,No
+215,Car T,All Vehicles,Spam,You have been selected for a free trial,Low,Yes
+216,Car U,Car V,Roadwork,Left lane closed for paving,Medium,No
+217,Car W,All Vehicles,Traffic,"Congestion, use alternate route",High,No
+218,Car X,Car Y,Emergency,"Car accident, use caution",High,No
+219,Car Z,All Vehicles,Weather,Tornado warning in effect,High,No
+220,Car A,Car B,Hazard,Car on fire on the shoulder,High,No
+221,Car C,All Vehicles,Traffic,Delays due to accident,High,No
+222,Car D,Car E,Emergency,Test emergency message,High,No
+223,Car F,All Vehicles,Weather,Heat wave warning in effect,High,No
+224,Car G,Car H,Hazard,Large object in the road,High,No
+225,Car I,All Vehicles,Spam,Click here for a free gift,Low,Yes
+226,Car J,Car K,Roadwork,Right lane closed for paving,Medium,No
+227,Car L,All Vehicles,Traffic,Heavy truck traffic on highway,Medium,No
+228,Car M,Car N,Emergency,Medical emergency on shoulder,High,No
+229,Car O,All Vehicles,Weather,Severe thunderstorm warning,High,No
+230,Car P,Car Q,Hazard,Car stalled in left lane,High,No
+231,Car R,All Vehicles,Roadwork,"Bridge repair work, use caution",Medium,No
+232,Car S,Car T,Traffic,"Congestion, expect delays",High,No
+233,Car U,All Vehicles,Emergency,Report suspicious activity on shoulder,High,No
+234,Car V,Car W,Weather,Freezing rain and sleet warning,High,No
+235,Car X,All Vehicles,Spam,You have been selected for a prize,Low,Yes
+236,Car Y,Car Z,Roadwork,Center lane closed for repair,Medium,No
+237,Car A,All Vehicles,Traffic,Road closed due to flooding,High,No
+238,Car B,Car C,Emergency,"Car accident with injuries, call 911",High,No
+239,Car D,All Vehicles,Weather,Snow and ice warning in effect,High,No
+240,Car E,Car F,Hazard,Car stalled in center lane,High,No
+241,Car G,All Vehicles,Traffic,"Heavy congestion, consider alternate route",High,No
+242,Car H,Car I,Emergency,Test emergency message,High,No
+243,Car J,All Vehicles,Weather,Severe thunderstorm warning upgraded to category 5,High,No
+244,Car K,Car L,Hazard,Large pothole in right lane,Medium,No
+245,Car M,All Vehicles,Spam,Congratulations! You have been selected for a prize,Low,Yes
+246,Car N,Car O,Roadwork,Right lane closed for maintenance,Medium,No
+247,Car P,All Vehicles,Traffic,Delays due to heavy truck traffic,Medium,No
+248,Car Q,Car R,Emergency,Medical emergency on highway,High,No
+249,Car S,All Vehicles,Weather,Flood warning in effect,High,No
+250,Car T,Car U,Hazard,"Car on shoulder, use caution",Low,No
+251,Car U,All Vehicles,Weather,Dense fog advisory,Medium,No
+252,Car V,Car W,Hazard,Fallen tree blocking road,High,No
+253,Car X,All Vehicles,Roadwork,Lane closure for resurfacing,Medium,No
+254,Car Y,Car Z,Traffic,"Congestion, consider alternate route",High,No
+255,Car A,All Vehicles,Emergency,Test emergency broadcast,High,No
+256,Car B,Car C,Hazard,Car swerving erratically,High,No
+257,Car D,All Vehicles,Weather,Heavy rain and thunderstorms,High,No
+258,Car E,Car F,Traffic,Delays due to accident,High,No
+259,Car G,All Vehicles,Emergency,Report suspicious activity,High,No
+260,Car H,Car I,Roadwork,Right lane closed for maintenance,Medium,No
+261,Car J,All Vehicles,Traffic,Road closure due to an event,High,No
+262,Car K,Car L,Emergency,Medical emergency on highway,High,No
+263,Car M,All Vehicles,Weather,Severe storm warning,High,No
+264,Car N,Car O,Hazard,Loose gravel on the road,Medium,No
+265,Car P,All Vehicles,Roadwork,Construction ahead,Medium,No
+266,Car Q,Car R,Traffic,Heavy traffic congestion,High,No
+267,Car S,All Vehicles,Emergency,Test emergency message,High,No
+268,Car T,Car U,Weather,Heatwave advisory,Medium,No
+269,Car V,All Vehicles,Hazard,Vehicle broken down,Medium,No
+270,Car W,Car X,Spam,Limited-time discount offer,Low,Yes
+271,Car Y,All Vehicles,Traffic,"Congestion, use alternate route",High,No
+272,Car Z,Car A,Emergency,"Hazardous material spill, use caution",High,No
+273,Car B,All Vehicles,Weather,Severe wind advisory,Medium,No
+274,Car C,Car D,Hazard,Car stopped in left lane,High,No
+275,Car E,All Vehicles,Roadwork,Lane closure for construction,Medium,No
+276,Car F,Car G,Traffic,"Heavy truck traffic, expect delays",Medium,No
+277,Car H,All Vehicles,Emergency,Suspicious package reported,High,No
+278,Car I,Car J,Weather,Snowstorm warning,High,No
+279,Car K,All Vehicles,Hazard,Fallen debris on the road,Medium,No
+280,Car L,Car M,Roadwork,Road resurfacing ahead,Medium,No
+281,Car N,All Vehicles,Spam,Get rich quick! Invest now!,Low,Yes
+282,Car P,Car Q,Spam,Exclusive limited-time offer!,Low,Yes
+283,Car R,All Vehicles,Spam,You've won a free vacation package!,Low,Yes
+284,Car S,Car T,Spam,Earn $1000 per day from home!,Low,Yes
+285,Car U,All Vehicles,Spam,Urgent message! Click here now!,Low,Yes
+286,Car V,Car W,Spam,Double your income in 30 days!,Low,Yes
+287,Car X,All Vehicles,Spam,Free gift for the first 100 people!,Low,Yes
+288,Car Y,Car Z,Spam,Special offer for a limited time!,Low,Yes
+289,Car A,All Vehicles,Spam,Congratulations! You've won!,Low,Yes
+290,Car B,Car C,Spam,Massive discount - Shop now!,Low,Yes
+291,Car D,All Vehicles,Spam,Limited time offer - Buy now and save!,Low,Yes
+292,Car E,Car F,Spam,Make money fast with this secret method!,Low,Yes
+293,Car G,All Vehicles,Spam,Your lucky day - Win a luxury vacation!,Low,Yes
+294,Car H,Car I,Spam,Exclusive deal - Get 50% off your purchase!,Low,Yes
+295,Car J,All Vehicles,Spam,Instant cash - Earn $100 per hour from home!,Low,Yes
+296,Car K,Car L,Spam,Claim your free gift - Limited supplies left!,Low,Yes
+297,Car M,All Vehicles,Spam,"Special offer - Buy one, get one free!",Low,Yes
+298,Car N,Car O,Spam,Act now - Limited stock available!,Low,Yes
+299,Car P,All Vehicles,Spam,Congratulations! You've won a cash prize!,Low,Yes
+300,Car Q,Car R,Spam,Last chance - Don't miss out on this amazing deal!,Low,Yes
+301,Car S,All Vehicles,Traffic,"Heavy traffic on Highway A, consider alternate route",High,No
+302,Car U,Car V,Emergency,"Accident reported on Highway B, use caution",High,No
+303,Car X,All Vehicles,Weather,Heavy rain and thunderstorms expected in the area,High,No
+304,Car Y,Car Z,Hazard,"Debris on the road, use caution",Medium,No
+305,Car A,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+306,Car B,Car C,Traffic,"Congestion on Highway C, anticipate slow traffic",High,No
+307,Car D,All Vehicles,Emergency,Report any suspicious activity on Highway D,High,No
+308,Car E,Car F,Weather,Winter storm warning in effect,High,No
+309,Car G,All Vehicles,Hazard,"Vehicle stopped on the shoulder, use caution",Medium,No
+310,Car H,Car I,Roadwork,Left lane closed for maintenance,Medium,No
+311,Car J,All Vehicles,Traffic,Road closure on Highway A due to an accident,High,No
+312,Car K,Car L,Emergency,Test emergency message,High,No
+313,Car M,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+314,Car N,Car O,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+315,Car P,All Vehicles,Roadwork,Lane closure for construction ahead,Medium,No
+316,Car Q,Car R,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+317,Car S,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+318,Car T,Car U,Emergency,Report any suspicious activity on the highway,High,No
+319,Car V,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+320,Car W,Car X,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+321,Car Y,All Vehicles,Traffic,"Heavy traffic reported on Highway B, expect delays",High,No
+322,Car Z,Car A,Emergency,"Accident with injuries on Highway C, emergency services en route",High,No
+323,Car B,All Vehicles,Weather,Flash flood warning in effect,High,No
+324,Car C,Car D,Hazard,"Large pothole on the road, use caution",Medium,No
+325,Car E,All Vehicles,Roadwork,Right lane closed for maintenance work,Medium,No
+326,Car F,Car G,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+327,Car H,All Vehicles,Traffic,"Congestion ahead, consider using an alternate route",High,No
+328,Car I,Car J,Emergency,Test emergency message,High,No
+329,Car K,All Vehicles,Weather,"Severe storm approaching, take necessary precautions",High,No
+330,Car L,Car M,Spam,Make $1000 per day working from home!,Low,Yes
+331,Car N,All Vehicles,Hazard,"Debris on the road, use caution",Medium,No
+332,Car O,Car P,Roadwork,Road resurfacing in progress,Medium,No
+333,Car Q,All Vehicles,Spam,You've won a luxury vacation! Claim your prize now!,Low,Yes
+334,Car R,Car S,Traffic,Delays due to a special event in the area,High,No
+335,Car T,All Vehicles,Emergency,Report any suspicious activity on the highway,High,No
+336,Car U,Car V,Weather,Severe heat advisory in effect,Medium,No
+337,Car W,All Vehicles,Spam,Exclusive discount - Limited stock available!,Low,Yes
+338,Car X,Car Y,Traffic,"Road closure for maintenance, follow the detour",High,No
+339,Car Z,All Vehicles,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+340,Car A,Car B,Spam,Earn passive income with this secret investment opportunity!,Low,Yes
+341,Car C,All Vehicles,Traffic,Road closure due to an overturned vehicle,High,No
+342,Car D,Car E,Emergency,Test emergency broadcast,High,No
+343,Car F,All Vehicles,Weather,Severe snowstorm warning in effect,High,No
+344,Car G,Car H,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+345,Car I,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+346,Car J,Car K,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+347,Car L,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+348,Car M,Car N,Emergency,Report any suspicious activity on the highway,High,No
+349,Car O,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+350,Car P,Car Q,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+351,Car R,All Vehicles,Hazard,"Fallen tree blocking the road, use caution",Medium,No
+352,Car S,Car T,Roadwork,Lane closure for resurfacing,Medium,No
+353,Car U,All Vehicles,Traffic,"Heavy traffic on Highway A, consider alternate route",High,No
+354,Car V,Car W,Emergency,"Accident with injuries on Highway C, emergency services en route",High,No
+355,Car X,All Vehicles,Weather,Flash flood warning in effect,High,No
+356,Car Y,Car Z,Hazard,"Large pothole on the road, use caution",Medium,No
+357,Car A,All Vehicles,Roadwork,Right lane closed for maintenance work,Medium,No
+358,Car B,Car C,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+359,Car D,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+360,Car E,Car F,Emergency,Report any suspicious activity on the highway,High,No
+361,Car G,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+362,Car H,Car I,Spam,Exclusive offer - Limited stock available!,Low,Yes
+363,Car J,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+364,Car K,Car L,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+365,Car M,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+366,Car N,Car O,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+367,Car P,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+368,Car Q,Car R,Spam,Earn passive income with this secret investment opportunity!,Low,Yes
+369,Car S,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+370,Car T,Car U,Emergency,Test emergency broadcast,High,No
+371,Car V,All Vehicles,Traffic,"Heavy traffic reported on Highway B, expect delays",High,No
+372,Car W,Car X,Emergency,"Accident with injuries on Highway C, emergency services en route",High,No
+373,Car Y,All Vehicles,Weather,Flash flood warning in effect,High,No
+374,Car Z,Car A,Hazard,"Large pothole on the road, use caution",Medium,No
+375,Car B,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+376,Car C,Car D,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+377,Car E,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+378,Car F,Car G,Emergency,Report any suspicious activity on the highway,High,No
+379,Car H,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+380,Car I,Car J,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+381,Car K,All Vehicles,Hazard,"Fallen tree blocking the road, use caution",Medium,No
+382,Car L,Car M,Roadwork,Lane closure for resurfacing,Medium,No
+383,Car N,All Vehicles,Traffic,"Heavy traffic on Highway A, consider alternate route",High,No
+384,Car O,Car P,Emergency,Test emergency message,High,No
+385,Car Q,All Vehicles,Weather,"Severe storm approaching, take necessary precautions",High,No
+386,Car R,Car S,Hazard,"Debris on the road, use caution",Medium,No
+387,Car T,All Vehicles,Roadwork,Right lane closed for maintenance work,Medium,No
+388,Car U,Car V,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+389,Car W,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+390,Car X,Car Y,Emergency,Report any suspicious activity on the highway,High,No
+391,Car Z,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+392,Car A,Car B,Spam,Exclusive offer - Limited stock available!,Low,Yes
+393,Car C,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+394,Car D,Car E,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+395,Car F,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+396,Car G,Car H,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+397,Car I,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+398,Car J,Car K,Spam,Earn passive income with this secret investment opportunity!,Low,Yes
+399,Car L,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+400,Car M,Car N,Emergency,Test emergency broadcast,High,No
+401,Car N,All Vehicles,Traffic,Road closure due to construction,High,No
+402,Car P,Car Q,Emergency,Medical emergency reported on Highway A,High,No
+403,Car R,All Vehicles,Weather,Tornado warning in effect,High,No
+404,Car S,Car T,Hazard,"Fallen rocks on the road, proceed with caution",Medium,No
+405,Car U,All Vehicles,Roadwork,Lane closures for road repairs,Medium,No
+406,Car V,Car W,Spam,Limited-time offer - Buy now and get 50% off!,Low,Yes
+407,Car X,All Vehicles,Traffic,"Heavy congestion, consider alternate routes",High,No
+408,Car Y,Car Z,Emergency,Report any suspicious activities on the highway,High,No
+409,Car A,All Vehicles,Weather,Severe thunderstorm warning,High,No
+410,Car B,Car C,Spam,Make $1000 per day from home!,Low,Yes
+411,Car D,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+412,Car E,Car F,Roadwork,Road resurfacing in progress,Medium,No
+413,Car G,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+414,Car H,Car I,Emergency,Test emergency message,High,No
+415,Car J,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+416,Car K,Car L,Hazard,"Fallen tree blocking the road, use caution",Medium,No
+417,Car M,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+418,Car N,Car O,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+419,Car P,All Vehicles,Traffic,"Heavy congestion on Highway C, expect delays",High,No
+420,Car Q,Car R,Emergency,Report any suspicious activities on the highway,High,No
+421,Car S,All Vehicles,Weather,Severe thunderstorm warning,High,No
+422,Car T,Car U,Spam,Limited stock available - Don't miss out!,Low,Yes
+423,Car V,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+424,Car W,Car X,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+425,Car Y,All Vehicles,Weather,Severe storm warning in effect,High,No
+426,Car Z,Car A,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+427,Car B,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+428,Car C,Car D,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+429,Car E,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+430,Car F,Car G,Emergency,Report any suspicious activities on the highway,High,No
+431,Car H,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+432,Car I,Car J,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+433,Car K,All Vehicles,Hazard,"Debris on the road, use caution",Medium,No
+434,Car L,Car M,Roadwork,Lane closures due to maintenance,Medium,No
+435,Car N,All Vehicles,Traffic,Heavy traffic reported on Highway A,High,No
+436,Car O,Car P,Emergency,Test emergency message,High,No
+437,Car Q,All Vehicles,Weather,Severe storm warning in effect,High,No
+438,Car R,Car S,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+439,Car T,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+440,Car U,Car V,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+441,Car X,All Vehicles,Traffic,Road closure due to an accident,High,No
+442,Car Y,Car Z,Emergency,Test emergency broadcast,High,No
+443,Car A,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+444,Car B,Car C,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+445,Car D,All Vehicles,Roadwork,Lane closures for road repairs,Medium,No
+446,Car E,Car F,Spam,Limited-time offer - Buy now and get 50% off!,Low,Yes
+447,Car G,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+448,Car H,Car I,Emergency,Report any suspicious activities on the highway,High,No
+449,Car J,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+450,Car K,Car L,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+451,Car M,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+452,Car N,Car O,Roadwork,Road resurfacing in progress,Medium,No
+453,Car P,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+454,Car Q,Car R,Emergency,Test emergency message,High,No
+455,Car S,All Vehicles,Weather,Severe thunderstorm warning,High,No
+456,Car T,Car U,Hazard,"Debris on the road, use caution",Medium,No
+457,Car V,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+458,Car W,Car X,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+459,Car Y,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+460,Car Z,Car A,Emergency,Report any suspicious activities on the highway,High,No
+461,Car B,All Vehicles,Weather,Severe thunderstorm warning,High,No
+462,Car C,Car D,Spam,Limited stock available - Don't miss out!,Low,Yes
+463,Car E,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+464,Car F,Car G,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+465,Car H,All Vehicles,Weather,Severe storm warning in effect,High,No
+466,Car I,Car J,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+467,Car K,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+468,Car L,Car M,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+469,Car N,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+470,Car O,Car P,Emergency,Report any suspicious activities on the highway,High,No
+471,Car Q,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+472,Car R,Car S,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+473,Car T,All Vehicles,Traffic,Road closure due to an accident,High,No
+474,Car U,Car V,Emergency,Test emergency broadcast,High,No
+475,Car W,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+476,Car X,Car Y,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+477,Car Z,All Vehicles,Roadwork,Lane closures for road repairs,Medium,No
+478,Car A,Car B,Spam,Limited-time offer - Buy now and get 50% off!,Low,Yes
+479,Car C,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+480,Car D,Car E,Emergency,Report any suspicious activities on the highway,High,No
+481,Car F,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+482,Car G,Car H,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+483,Car I,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+484,Car J,Car K,Roadwork,Road resurfacing in progress,Medium,No
+485,Car L,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+486,Car M,Car N,Emergency,Test emergency message,High,No
+487,Car O,All Vehicles,Weather,Severe thunderstorm warning,High,No
+488,Car P,Car Q,Hazard,"Debris on the road, use caution",Medium,No
+489,Car R,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+490,Car S,Car T,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+491,Car U,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+492,Car V,Car W,Emergency,Report any suspicious activities on the highway,High,No
+493,Car X,All Vehicles,Weather,Severe thunderstorm warning,High,No
+494,Car Y,Car Z,Spam,Limited stock available - Don't miss out!,Low,Yes
+495,Car A,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+496,Car B,Car C,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+497,Car D,All Vehicles,Weather,Severe storm warning in effect,High,No
+498,Car E,Car F,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+499,Car G,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+500,Car H,Car I,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+501,Car J,All Vehicles,Traffic,Road closure due to construction,High,No
+502,Car K,Car L,Emergency,Medical emergency reported on Highway A,High,No
+503,Car M,All Vehicles,Weather,Tornado warning in effect,High,No
+504,Car N,Car O,Hazard,"Fallen rocks on the road, proceed with caution",Medium,No
+505,Car P,All Vehicles,Roadwork,Lane closures for road repairs,Medium,No
+506,Car Q,Car R,Spam,Limited-time offer - Buy now and get 50% off!,Low,Yes
+507,Car S,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+508,Car T,Car U,Emergency,Report any suspicious activities on the highway,High,No
+509,Car V,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+510,Car W,Car X,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+511,Car Y,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+512,Car Z,Car A,Roadwork,Road resurfacing in progress,Medium,No
+513,Car B,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+514,Car C,Car D,Emergency,Test emergency message,High,No
+515,Car E,All Vehicles,Weather,Severe thunderstorm warning,High,No
+516,Car F,Car G,Hazard,"Debris on the road, use caution",Medium,No
+517,Car H,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+518,Car I,Car J,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+519,Car K,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+520,Car L,Car M,Emergency,Report any suspicious activities on the highway,High,No
+521,Car N,All Vehicles,Weather,Severe thunderstorm warning,High,No
+522,Car O,Car P,Spam,Limited stock available - Don't miss out!,Low,Yes
+523,Car Q,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+524,Car R,Car S,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+525,Car T,All Vehicles,Weather,Severe storm warning in effect,High,No
+526,Car U,Car V,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+527,Car W,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+528,Car X,Car Y,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+529,Car Z,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+530,Car A,Car B,Emergency,Report any suspicious activities on the highway,High,No
+531,Car C,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+532,Car D,Car E,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+533,Car F,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+534,Car G,Car H,Roadwork,Road resurfacing in progress,Medium,No
+535,Car I,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+536,Car J,Car K,Emergency,Test emergency message,High,No
+537,Car L,All Vehicles,Weather,Severe thunderstorm warning,High,No
+538,Car M,Car N,Hazard,"Debris on the road, use caution",Medium,No
+539,Car O,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+540,Car P,Car Q,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+541,Car R,All Vehicles,Traffic,Road closure due to an accident,High,No
+542,Car S,Car T,Emergency,Test emergency broadcast,High,No
+543,Car U,All Vehicles,Weather,Severe thunderstorm warning in effect,High,No
+544,Car V,Car W,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+545,Car X,All Vehicles,Roadwork,Lane closures for road repairs,Medium,No
+546,Car Y,Car Z,Spam,Limited-time offer - Buy now and get 50% off!,Low,Yes
+547,Car A,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+548,Car B,Car C,Emergency,Report any suspicious activities on the highway,High,No
+549,Car D,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+550,Car E,Car F,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+551,Car G,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+552,Car H,Car I,Roadwork,Road resurfacing in progress,Medium,No
+553,Car J,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+554,Car K,Car L,Emergency,Test emergency message,High,No
+555,Car M,All Vehicles,Weather,Severe thunderstorm warning,High,No
+556,Car N,Car O,Hazard,"Debris on the road, use caution",Medium,No
+557,Car P,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+558,Car Q,Car R,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+559,Car S,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+560,Car T,Car U,Emergency,Report any suspicious activities on the highway,High,No
+561,Car V,All Vehicles,Weather,Severe thunderstorm warning,High,No
+562,Car W,Car X,Spam,Limited stock available - Don't miss out!,Low,Yes
+563,Car Y,All Vehicles,Traffic,"Road closure for maintenance, follow the detour",High,No
+564,Car Z,Car A,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+565,Car B,All Vehicles,Weather,Severe storm warning in effect,High,No
+566,Car C,Car D,Hazard,"Car stopped on the shoulder, use caution",Medium,No
+567,Car E,All Vehicles,Roadwork,"Construction ahead, expect delays",Medium,No
+568,Car F,Car G,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+569,Car H,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+570,Car I,Car J,Emergency,Report any suspicious activities on the highway,High,No
+571,Car K,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+572,Car L,Car M,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+573,Car N,All Vehicles,Hazard,"Road surface is slippery, drive with caution",Medium,No
+574,Car O,Car P,Roadwork,Road resurfacing in progress,Medium,No
+575,Car Q,All Vehicles,Traffic,Heavy traffic reported on Highway B,High,No
+576,Car R,Car S,Emergency,Test emergency message,High,No
+577,Car T,All Vehicles,Weather,Severe thunderstorm warning,High,No
+578,Car U,Car V,Hazard,"Debris on the road, use caution",Medium,No
+579,Car W,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+580,Car X,Car Y,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+581,Car Y,All Vehicles,Spam,Attention! You've won a luxury vacation package!,Low,Yes
+582,Car B,Car L,Spam,"Limited-time offer: Buy one, get one free!",Low,Yes
+583,Car N,All Vehicles,Spam,"Earn $10,000 per month from home!",Low,Yes
+584,Car H,Car Q,Spam,Get exclusive access to secret investment opportunities!,Low,Yes
+585,Car F,All Vehicles,Spam,Double your money in just 30 days!,Low,Yes
+586,Car R,Car Z,Spam,Claim your free gift card now!,Low,Yes
+587,Car D,All Vehicles,Spam,Make money fast with this proven system!,Low,Yes
+588,Car M,Car X,Spam,Lose weight quickly and effortlessly!,Low,Yes
+589,Car G,All Vehicles,Spam,Discover the secret to eternal youth!,Low,Yes
+590,Car A,Car U,Spam,Get the best deals on luxury goods!,Low,Yes
+591,Car W,All Vehicles,Spam,Start your own online business and be your own boss!,Low,Yes
+592,Car P,Car I,Spam,Unlock the hidden potential of your mind!,Low,Yes
+593,Car K,All Vehicles,Spam,Get rich quick with this amazing opportunity!,Low,Yes
+594,Car T,Car E,Spam,Win a brand new car in our exciting giveaway!,Low,Yes
+595,Car C,All Vehicles,Spam,Discover the secret to unlimited wealth and success!,Low,Yes
+596,Car V,Car S,Spam,Earn passive income while you sleep!,Low,Yes
+597,Car O,All Vehicles,Spam,Get the body you've always dreamed of!,Low,Yes
+598,Car J,Car D,Spam,Learn the secrets of successful entrepreneurship!,Low,Yes
+599,Car L,All Vehicles,Spam,Turn your hobby into a profitable business!,Low,Yes
+600,Car X,Car T,Spam,Get instant access to exclusive online courses!,Low,Yes
+601,Car B,All Vehicles,Spam,Attention! You've won a luxury vacation package!,Low,Yes
+602,Car D,Car F,Spam,"Limited-time offer: Buy one, get one free!",Low,Yes
+603,Car H,All Vehicles,Spam,"Earn $10,000 per month from home!",Low,Yes
+604,Car J,Car L,Spam,Get exclusive access to secret investment opportunities!,Low,Yes
+605,Car N,All Vehicles,Spam,Double your money in just 30 days!,Low,Yes
+606,Car P,Car R,Spam,Claim your free gift card now!,Low,Yes
+607,Car T,All Vehicles,Spam,Make money fast with this proven system!,Low,Yes
+608,Car V,Car X,Spam,Lose weight quickly and effortlessly!,Low,Yes
+609,Car Y,All Vehicles,Spam,Discover the secret to eternal youth!,Low,Yes
+610,Car A,Car C,Spam,Get the best deals on luxury goods!,Low,Yes
+611,Car E,All Vehicles,Spam,Start your own online business and be your own boss!,Low,Yes
+612,Car G,Car I,Spam,Unlock the hidden potential of your mind!,Low,Yes
+613,Car K,All Vehicles,Spam,Get rich quick with this amazing opportunity!,Low,Yes
+614,Car M,Car O,Spam,Win a brand new car in our exciting giveaway!,Low,Yes
+615,Car Q,All Vehicles,Spam,Discover the secret to unlimited wealth and success!,Low,Yes
+616,Car S,Car U,Spam,Earn passive income while you sleep!,Low,Yes
+617,Car W,All Vehicles,Spam,Get the body you've always dreamed of!,Low,Yes
+618,Car C,Car E,Spam,Learn the secrets of successful entrepreneurship!,Low,Yes
+619,Car I,All Vehicles,Spam,Turn your hobby into a profitable business!,Low,Yes
+620,Car M,Car Q,Spam,Get instant access to exclusive online courses!,Low,Yes
+621,Car U,All Vehicles,Spam,Exclusive offer: Get 50% off on all products!,Low,Yes
+622,Car V,Car W,Spam,Limited-time deal: Buy now and save big!,Low,Yes
+623,Car X,All Vehicles,Spam,Attention drivers: Win a luxury vacation for two!,Low,Yes
+624,Car Y,Car Z,Spam,Special offer: Get a free gift with every purchase!,Low,Yes
+625,Car A,All Vehicles,Spam,Amazing opportunity: Earn passive income from home!,Low,Yes
+626,Car B,Car C,Spam,Limited seats available: Register now for a free workshop!,Low,Yes
+627,Car D,All Vehicles,Spam,Attention entrepreneurs: Discover the secret to success!,Low,Yes
+628,Car E,Car F,Spam,Exclusive membership offer: Join now and get VIP benefits!,Low,Yes
+629,Car G,All Vehicles,Spam,Unlock your potential with our life-changing program!,Low,Yes
+630,Car H,Car I,Spam,"Limited-time sale: Buy one, get one free on select items!",Low,Yes
+631,Car J,All Vehicles,Spam,Don't miss out: Get the latest trends at discounted prices!,Low,Yes
+632,Car K,Car L,Spam,Get in shape with our revolutionary fitness program!,Low,Yes
+633,Car M,All Vehicles,Spam,Attention gamers: Win a gaming console of your choice!,Low,Yes
+634,Car N,Car O,Spam,Get your dream job with our professional resume services!,Low,Yes
+635,Car P,All Vehicles,Spam,Start your online business with our proven system!,Low,Yes
+636,Car Q,Car R,Spam,Discover the secrets of financial freedom!,Low,Yes
+637,Car S,All Vehicles,Spam,Limited-time offer: Get 20% off on all orders!,Low,Yes
+638,Car T,Car U,Spam,Unlock your creativity with our art workshop!,Low,Yes
+639,Car V,All Vehicles,Spam,Attention travelers: Get exclusive discounts on hotels!,Low,Yes
+640,Car W,Car X,Spam,Double your investment in just 6 months!,Low,Yes
+641,Car Y,All Vehicles,Spam,"Special offer: Buy one, get one free on selected items!",Low,Yes
+642,Car B,Car L,Spam,Attention shoppers: Get 50% off on all products!,Low,Yes
+643,Car N,All Vehicles,Spam,"Exclusive deal: Earn $10,000 per month working from home!",Low,Yes
+644,Car H,Car Q,Spam,Limited-time offer: Get 70% off on all services!,Low,Yes
+645,Car F,All Vehicles,Spam,Double your income with our proven investment strategy!,Low,Yes
+646,Car R,Car Z,Spam,Claim your free trial and experience amazing benefits!,Low,Yes
+647,Car D,All Vehicles,Spam,Limited seats available: Register now for a free webinar!,Low,Yes
+648,Car M,Car X,Spam,Get in shape with our revolutionary fitness program!,Low,Yes
+649,Car G,All Vehicles,Spam,Unlock your potential with our life-changing course!,Low,Yes
+650,Car A,Car U,Spam,Get the best deals on luxury products!,Low,Yes
+651,Car E,All Vehicles,Spam,Start your online business and achieve financial freedom!,Low,Yes
+652,Car C,Car I,Spam,Discover the secret to success and happiness!,Low,Yes
+653,Car K,All Vehicles,Spam,Don't miss out: Get the latest fashion trends at low prices!,Low,Yes
+654,Car W,Car J,Spam,Attention music lovers: Win VIP tickets to a concert!,Low,Yes
+655,Car P,All Vehicles,Spam,Enhance your skills with our online learning platform!,Low,Yes
+656,Car T,Car E,Spam,Start your journey to financial independence today!,Low,Yes
+657,Car V,All Vehicles,Spam,Limited-time offer: Get 30% off on all orders!,Low,Yes
+658,Car O,Car S,Spam,Ignite your creativity with our art masterclass!,Low,Yes
+659,Car I,All Vehicles,Spam,Attention travelers: Get exclusive discounts on flights!,Low,Yes
+660,Car L,Car X,Spam,Earn passive income with our proven investment strategy!,Low,Yes
+661,Car A,All Vehicles,Traffic,"Accident reported on Highway 123, expect delays",High,No
+662,Car B,Car C,Emergency,"Medical emergency, ambulance on its way",High,No
+663,Car D,All Vehicles,Weather,Heavy rain warning in effect,High,No
+664,Car E,Car F,Hazard,"Road construction ahead, use alternate route",Medium,No
+665,Car G,All Vehicles,Roadwork,Lane closures for bridge repairs,Medium,No
+666,Car H,Car I,Spam,Exclusive offer - Buy now and get 50% off!,Low,Yes
+667,Car J,All Vehicles,Traffic,Traffic congestion on Highway 456,High,No
+668,Car K,Car L,Emergency,"Hazardous material spill, use caution",High,No
+669,Car M,All Vehicles,Weather,Severe thunderstorm warning,High,No
+670,Car N,Car O,Hazard,"Fallen tree blocking the road, proceed with caution",Medium,No
+671,Car P,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+672,Car Q,Car R,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+673,Car S,All Vehicles,Traffic,Delays expected due to heavy traffic,High,No
+674,Car T,Car U,Emergency,Report any suspicious activities on the highway,High,No
+675,Car V,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+676,Car W,Car X,Spam,"Get rich quick! Earn $10,000 in a week!",Low,Yes
+677,Car Y,All Vehicles,Hazard,"Slippery road conditions, reduce speed",Medium,No
+678,Car Z,Car A,Roadwork,"Bridge maintenance, expect delays",Medium,No
+679,Car B,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+680,Car C,Car D,Emergency,Test emergency message,High,No
+681,Car E,All Vehicles,Weather,Severe thunderstorm warning,High,No
+682,Car F,Car G,Hazard,"Debris on the road, use caution",Medium,No
+683,Car H,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+684,Car I,Car J,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+685,Car K,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+686,Car L,Car M,Emergency,Report any suspicious activities on the highway,High,No
+687,Car N,All Vehicles,Weather,Severe thunderstorm warning,High,No
+688,Car O,Car P,Spam,Limited stock available - Don't miss out!,Low,Yes
+689,Car Q,All Vehicles,Traffic,"Road closure due to maintenance, follow the detour",High,No
+690,Car R,Car S,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+691,Car S,All Vehicles,Spam,Attention! Don't miss out on our limited-time offer!,Low,Yes
+692,Car T,Car U,Spam,Exclusive discount: Get 30% off on all products!,Low,Yes
+693,Car V,All Vehicles,Spam,Earn money from home with our proven system!,Low,Yes
+694,Car W,Car X,Spam,Discover the secret to success in just 7 days!,Low,Yes
+695,Car Y,All Vehicles,Spam,"Limited-time offer: Buy one, get one free!",Low,Yes
+696,Car Z,Car A,Spam,Attention drivers: Win a luxury car in our giveaway!,Low,Yes
+697,Car B,All Vehicles,Spam,Start your own online business and be your own boss!,Low,Yes
+698,Car C,Car D,Spam,Get fit and healthy with our revolutionary program!,Low,Yes
+699,Car E,All Vehicles,Spam,Unlock your potential with our life-changing course!,Low,Yes
+700,Car F,Car G,Spam,Limited-time sale: Get 50% off on all orders!,Low,Yes
+701,Car H,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+702,Car I,Car J,Emergency,"Hazardous material spill, use caution",High,No
+703,Car K,All Vehicles,Weather,Severe thunderstorm warning,High,No
+704,Car L,Car M,Hazard,"Debris on the road, use caution",Medium,No
+705,Car N,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+706,Car O,Car P,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+707,Car Q,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+708,Car R,Car S,Emergency,Report any suspicious activities on the highway,High,No
+709,Car T,All Vehicles,Weather,Severe thunderstorm warning,High,No
+710,Car U,Car V,Spam,Limited stock available - Don't miss out!,Low,Yes
+711,Car W,All Vehicles,Traffic,"Road closure due to maintenance, follow the detour",High,No
+712,Car X,Car Y,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+713,Car Z,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+714,Car A,Car B,Hazard,"Fallen tree blocking the road, proceed with caution",Medium,No
+715,Car C,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+716,Car D,Car E,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+717,Car F,All Vehicles,Traffic,Delays expected due to heavy traffic,High,No
+718,Car G,Car H,Emergency,Report any suspicious activities on the highway,High,No
+719,Car I,All Vehicles,Weather,Severe thunderstorm warning,High,No
+720,Car J,Car K,Hazard,"Debris on the road, use caution",Medium,No
+721,Car L,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+722,Car M,Car N,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+723,Car O,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+724,Car P,Car Q,Emergency,Report any suspicious activities on the highway,High,No
+725,Car R,All Vehicles,Weather,Severe thunderstorm warning,High,No
+726,Car S,Car T,Hazard,"Debris on the road, use caution",Medium,No
+727,Car U,All Vehicles,Roadwork,Lane closures due to bridge repairs,Medium,No
+728,Car V,Car W,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+729,Car X,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+730,Car Y,Car Z,Emergency,Test emergency message,High,No
+731,Car A,All Vehicles,Weather,Severe thunderstorm warning,High,No
+732,Car B,Car C,Hazard,"Slippery road conditions, reduce speed",Medium,No
+733,Car D,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+734,Car E,Car F,Spam,Limited stock available - Don't miss out!,Low,Yes
+735,Car G,All Vehicles,Traffic,"Road closure due to maintenance, follow the detour",High,No
+736,Car H,Car I,Emergency,"Hazardous material spill on Highway D, avoid the area",High,No
+737,Car J,All Vehicles,Weather,Heatwave advisory in effect,Medium,No
+738,Car K,Car L,Hazard,"Fallen tree blocking the road, proceed with caution",Medium,No
+739,Car M,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+740,Car N,Car O,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+741,Car P,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+742,Car Q,Car R,Emergency,Report any suspicious activities on the highway,High,No
+743,Car S,All Vehicles,Weather,Severe thunderstorm warning,High,No
+744,Car T,Car U,Hazard,"Debris on the road, use caution",Medium,No
+745,Car V,All Vehicles,Roadwork,Lane closures due to bridge repairs,Medium,No
+746,Car W,Car X,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+747,Car Y,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+748,Car Z,Car A,Emergency,Test emergency message,High,No
+749,Car B,All Vehicles,Weather,Severe thunderstorm warning,High,No
+750,Car C,Car D,Hazard,"Slippery road conditions, reduce speed",Medium,No
+751,Car D,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+752,Car E,Car F,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+753,Car G,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+754,Car H,Car I,Emergency,Report any suspicious activities on the highway,High,No
+755,Car J,All Vehicles,Weather,Severe thunderstorm warning,High,No
+756,Car K,Car L,Hazard,"Debris on the road, use caution",Medium,No
+757,Car M,All Vehicles,Roadwork,Lane closures due to bridge repairs,Medium,No
+758,Car N,Car O,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+759,Car P,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+760,Car Q,Car R,Emergency,Test emergency message,High,No
+761,Car S,All Vehicles,Weather,Severe thunderstorm warning,High,No
+762,Car T,Car U,Hazard,"Slippery road conditions, reduce speed",Medium,No
+763,Car V,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+764,Car W,Car X,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+765,Car Y,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+766,Car Z,Car A,Emergency,Report any suspicious activities on the highway,High,No
+767,Car B,All Vehicles,Weather,Severe thunderstorm warning,High,No
+768,Car C,Car D,Hazard,"Debris on the road, use caution",Medium,No
+769,Car E,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+770,Car F,Car G,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+771,Car H,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+772,Car I,Car J,Emergency,Test emergency message,High,No
+773,Car K,All Vehicles,Weather,Severe thunderstorm warning,High,No
+774,Car L,Car M,Hazard,"Slippery road conditions, reduce speed",Medium,No
+775,Car N,All Vehicles,Roadwork,Lane closures due to bridge repairs,Medium,No
+776,Car O,Car P,Spam,Don't miss out on our exclusive sale - Limited time only!,Low,Yes
+777,Car Q,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+778,Car R,Car S,Emergency,"Hazardous material spill, use caution",High,No
+779,Car T,All Vehicles,Weather,Severe thunderstorm warning,High,No
+780,Car U,Car V,Hazard,"Debris on the road, use caution",Medium,No
+781,Car W,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+782,Car X,Car Y,Spam,"Special offer - Buy one, get one free!",Low,Yes
+783,Car Z,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+784,Car A,Car B,Emergency,Report any suspicious activities on the highway,High,No
+785,Car C,All Vehicles,Weather,Severe thunderstorm warning,High,No
+786,Car D,Car E,Hazard,"Slippery road conditions, reduce speed",Medium,No
+787,Car F,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+788,Car G,Car H,Spam,Limited stock available - Shop now!,Low,Yes
+789,Car I,All Vehicles,Traffic,Heavy traffic reported on Highway 456,High,No
+790,Car J,Car K,Emergency,Test emergency message,High,No
+791,Car L,All Vehicles,Weather,Severe thunderstorm warning,High,No
+792,Car M,Car N,Hazard,"Debris on the road, use caution",Medium,No
+793,Car O,All Vehicles,Roadwork,Lane closures due to bridge repairs,Medium,No
+794,Car P,Car Q,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+795,Car R,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+796,Car S,Car T,Emergency,Report any suspicious activities on the highway,High,No
+797,Car U,All Vehicles,Weather,Severe thunderstorm warning,High,No
+798,Car V,Car W,Hazard,"Slippery road conditions, reduce speed",Medium,No
+799,Car X,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+800,Car Y,Car Z,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+801,Car A,Car B,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+802,Car C,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+803,Car D,Car E,Emergency,"Hazardous material spill, use caution",High,No
+804,Car F,All Vehicles,Weather,Severe thunderstorm warning,High,No
+805,Car G,Car H,Hazard,"Debris on the road, use caution",Medium,No
+806,Car I,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+807,Car J,Car K,Spam,Limited stock available - Don't miss out!,Low,Yes
+808,Car L,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+809,Car M,Car N,Emergency,Report any suspicious activities on the highway,High,No
+810,Car O,All Vehicles,Weather,Severe thunderstorm warning,High,No
+811,Car P,Car Q,Hazard,"Slippery road conditions, reduce speed",Medium,No
+812,Car R,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+813,Car S,Car T,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+814,Car U,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+815,Car V,Car W,Emergency,Test emergency message,High,No
+816,Car X,All Vehicles,Weather,Severe thunderstorm warning,High,No
+817,Car Y,Car Z,Hazard,"Debris on the road, use caution",Medium,No
+818,Car A,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+819,Car B,Car C,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+820,Car D,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+821,Car E,Car F,Emergency,Report any suspicious activities on the highway,High,No
+822,Car G,All Vehicles,Weather,Severe thunderstorm warning,High,No
+823,Car H,Car I,Hazard,"Slippery road conditions, reduce speed",Medium,No
+824,Car J,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+825,Car K,Car L,Spam,"Special offer - Buy one, get one free!",Low,Yes
+826,Car L,All Vehicles,Traffic,Heavy traffic reported on Highway 456,High,No
+827,Car M,Car N,Emergency,"Hazardous material spill, use caution",High,No
+828,Car O,All Vehicles,Weather,Severe thunderstorm warning,High,No
+829,Car P,Car Q,Hazard,"Debris on the road, use caution",Medium,No
+830,Car R,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+831,Car S,Car T,Spam,Exclusive offer - Get 50% off on all products!,Low,Yes
+832,Car U,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+833,Car V,Car W,Emergency,Report any suspicious activities on the highway,High,No
+834,Car X,All Vehicles,Weather,Severe thunderstorm warning,High,No
+835,Car Y,Car Z,Hazard,"Slippery road conditions, reduce speed",Medium,No
+836,Car A,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+837,Car B,Car C,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+838,Car D,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+839,Car E,Car F,Emergency,Test emergency message,High,No
+840,Car G,All Vehicles,Weather,Severe thunderstorm warning,High,No
+841,Car H,Car I,Hazard,"Debris on the road, use caution",Medium,No
+842,Car J,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+843,Car K,Car L,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+844,Car M,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+845,Car N,Car O,Emergency,Report any suspicious activities on the highway,High,No
+846,Car P,All Vehicles,Weather,Severe thunderstorm warning,High,No
+847,Car Q,Car R,Hazard,"Slippery road conditions, reduce speed",Medium,No
+848,Car S,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+849,Car T,Car U,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+850,Car V,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+851,Car W,Car X,Emergency,"Hazardous material spill, use caution",High,No
+852,Car Y,All Vehicles,Weather,Severe thunderstorm warning,High,No
+853,Car Z,Car A,Hazard,"Debris on the road, use caution",Medium,No
+854,Car B,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+855,Car C,Car D,Spam,Exclusive offer - Get 50% off on all products!,Low,Yes
+856,Car E,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+857,Car F,Car G,Emergency,Report any suspicious activities on the highway,High,No
+858,Car H,All Vehicles,Weather,Severe thunderstorm warning,High,No
+859,Car I,Car J,Hazard,"Slippery road conditions, reduce speed",Medium,No
+860,Car K,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+861,Car L,Car M,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+862,Car N,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+863,Car O,Car P,Emergency,Test emergency message,High,No
+864,Car Q,All Vehicles,Weather,Severe thunderstorm warning,High,No
+865,Car R,Car S,Hazard,"Debris on the road, use caution",Medium,No
+866,Car T,All Vehicles,Roadwork,Road resurfacing in progress,Medium,No
+867,Car U,Car V,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+868,Car W,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+869,Car X,Car Y,Emergency,Report any suspicious activities on the highway,High,No
+870,Car Z,All Vehicles,Weather,Severe thunderstorm warning,High,No
+871,Car A,Car B,Hazard,"Slippery road conditions, reduce speed",Medium,No
+872,Car C,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+873,Car D,Car E,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+874,Car F,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+875,Car G,Car H,Emergency,Test emergency message,High,No
+876,Car I,All Vehicles,Weather,Severe thunderstorm warning,High,No
+877,Car J,Car K,Hazard,"Debris on the road, use caution",Medium,No
+878,Car L,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+879,Car M,Car N,Spam,Exclusive offer - Get 50% off on all products!,Low,Yes
+880,Car O,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+881,Car P,Car Q,Emergency,"Hazardous material spill, use caution",High,No
+882,Car R,All Vehicles,Weather,Severe thunderstorm warning,High,No
+883,Car S,Car T,Hazard,"Debris on the road, use caution",Medium,No
+884,Car U,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+885,Car V,Car W,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+886,Car X,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+887,Car Y,Car Z,Emergency,Report any suspicious activities on the highway,High,No
+888,Car A,All Vehicles,Weather,Severe thunderstorm warning,High,No
+889,Car B,Car C,Hazard,"Slippery road conditions, reduce speed",Medium,No
+890,Car D,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+891,Car E,Car F,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+892,Car G,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+893,Car H,Car I,Emergency,Test emergency message,High,No
+894,Car J,All Vehicles,Weather,Severe thunderstorm warning,High,No
+895,Car K,Car L,Hazard,"Debris on the road, use caution",Medium,No
+896,Car M,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+897,Car N,Car O,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+898,Car P,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+899,Car Q,Car R,Emergency,Report any suspicious activities on the highway,High,No
+900,Car S,All Vehicles,Weather,Severe thunderstorm warning,High,No
+901,Car T,Car U,Hazard,"Slippery road conditions, reduce speed",Medium,No
+902,Car V,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+903,Car W,Car X,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+904,Car Y,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+905,Car Z,Car A,Emergency,Test emergency message,High,No
+906,Car B,All Vehicles,Weather,Severe thunderstorm warning,High,No
+907,Car C,Car D,Hazard,"Debris on the road, use caution",Medium,No
+908,Car E,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+909,Car F,Car G,Spam,Exclusive offer - Get 50% off on all products!,Low,Yes
+910,Car H,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+911,Car I,Car J,Emergency,"Hazardous material spill, use caution",High,No
+912,Car K,All Vehicles,Weather,Severe thunderstorm warning,High,No
+913,Car L,Car M,Hazard,"Debris on the road, use caution",Medium,No
+914,Car N,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+915,Car O,Car P,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+916,Car Q,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+917,Car R,Car S,Emergency,Report any suspicious activities on the highway,High,No
+918,Car T,All Vehicles,Weather,Severe thunderstorm warning,High,No
+919,Car U,Car V,Hazard,"Slippery road conditions, reduce speed",Medium,No
+920,Car W,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+921,Car X,Car Y,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+922,Car Z,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+923,Car A,Car B,Emergency,Test emergency message,High,No
+924,Car C,All Vehicles,Weather,Severe thunderstorm warning,High,No
+925,Car D,Car E,Hazard,"Debris on the road, use caution",Medium,No
+926,Car F,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+927,Car G,Car H,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+928,Car I,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+929,Car J,Car K,Emergency,Report any suspicious activities on the highway,High,No
+930,Car L,All Vehicles,Weather,Severe thunderstorm warning,High,No
+931,Car M,Car N,Hazard,"Slippery road conditions, reduce speed",Medium,No
+932,Car O,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+933,Car P,Car Q,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+934,Car R,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+935,Car S,Car T,Emergency,Test emergency message,High,No
+936,Car U,All Vehicles,Weather,Severe thunderstorm warning,High,No
+937,Car V,Car W,Hazard,"Debris on the road, use caution",Medium,No
+938,Car X,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+939,Car Y,Car Z,Spam,Exclusive offer - Get 50% off on all products!,Low,Yes
+940,Car A,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+941,Car B,Car C,Emergency,"Hazardous material spill, use caution",High,No
+942,Car D,All Vehicles,Weather,Severe thunderstorm warning,High,No
+943,Car E,Car F,Hazard,"Debris on the road, use caution",Medium,No
+944,Car G,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+945,Car H,Car I,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+946,Car J,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+947,Car K,Car L,Emergency,Report any suspicious activities on the highway,High,No
+948,Car M,All Vehicles,Weather,Severe thunderstorm warning,High,No
+949,Car N,Car O,Hazard,"Slippery road conditions, reduce speed",Medium,No
+950,Car P,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+951,Car Q,Car R,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+952,Car S,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+953,Car T,Car U,Emergency,Test emergency message,High,No
+954,Car V,All Vehicles,Weather,Severe thunderstorm warning,High,No
+955,Car W,Car X,Hazard,"Debris on the road, use caution",Medium,No
+956,Car Y,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+957,Car Z,Car A,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+958,Car B,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+959,Car C,Car D,Emergency,Report any suspicious activities on the highway,High,No
+960,Car E,All Vehicles,Weather,Severe thunderstorm warning,High,No
+961,Car F,Car G,Hazard,"Slippery road conditions, reduce speed",Medium,No
+962,Car H,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+963,Car I,Car J,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+964,Car K,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+965,Car L,Car M,Emergency,"Hazardous material spill, use caution",High,No
+966,Car N,All Vehicles,Weather,Severe thunderstorm warning,High,No
+967,Car O,Car P,Hazard,"Debris on the road, use caution",Medium,No
+968,Car Q,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+969,Car R,Car S,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+970,Car T,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+971,Car U,Car V,Emergency,Report any suspicious activities on the highway,High,No
+972,Car W,All Vehicles,Weather,Severe thunderstorm warning,High,No
+973,Car X,Car Y,Hazard,"Slippery road conditions, reduce speed",Medium,No
+974,Car Z,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+975,Car A,Car B,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+976,Car C,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+977,Car D,Car E,Emergency,Test emergency message,High,No
+978,Car F,All Vehicles,Weather,Severe thunderstorm warning,High,No
+979,Car G,Car H,Hazard,"Debris on the road, use caution",Medium,No
+980,Car I,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+981,Car J,Car K,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+982,Car L,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+983,Car M,Car N,Emergency,Report any suspicious activities on the highway,High,No
+984,Car O,All Vehicles,Weather,Severe thunderstorm warning,High,No
+985,Car P,Car Q,Hazard,"Slippery road conditions, reduce speed",Medium,No
+986,Car R,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+987,Car S,Car T,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+988,Car U,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
+989,Car V,Car W,Emergency,"Hazardous material spill, use caution",High,No
+990,Car X,All Vehicles,Weather,Severe thunderstorm warning,High,No
+991,Car Y,Car Z,Hazard,"Debris on the road, use caution",Medium,No
+992,Car A,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+993,Car B,Car C,Spam,Exclusive offer - 20% off on all products!,Low,Yes
+994,Car D,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+995,Car E,Car F,Emergency,Report any suspicious activities on the highway,High,No
+996,Car G,All Vehicles,Weather,Severe thunderstorm warning,High,No
+997,Car H,Car I,Hazard,"Slippery road conditions, reduce speed",Medium,No
+998,Car J,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+999,Car K,Car L,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+1000,Car M,All Vehicles,Traffic,Heavy traffic reported on Highway 789,High,No
+1001,Car N,Car O,Emergency,Test emergency message,High,No
+1002,Car P,All Vehicles,Weather,Severe thunderstorm warning,High,No
+1003,Car Q,Car R,Hazard,"Debris on the road, use caution",Medium,No
+1004,Car S,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+1005,Car T,Car U,Spam,Exclusive offer - Buy now and get a free gift!,Low,Yes
+1006,Car V,All Vehicles,Traffic,Delays expected due to heavy congestion,High,No
+1007,Car W,Car X,Emergency,Report any suspicious activities on the highway,High,No
+1008,Car Y,All Vehicles,Weather,Severe thunderstorm warning,High,No
+1009,Car Z,Car A,Hazard,"Slippery road conditions, reduce speed",Medium,No
+1010,Car B,All Vehicles,Roadwork,Lane closures due to construction work,Medium,No
+1011,Car C,Car D,Spam,Limited-time offer - Buy now and get a free gift!,Low,Yes
+1012,Car E,All Vehicles,Traffic,Heavy traffic reported on Highway 123,High,No
